@@ -7,7 +7,7 @@ Contributor
 
 ### compile with GCC
 ```
-gcc shell.c -o shell
+$ gcc shell.c -o shell
 ```
 
 ### interactive mode
